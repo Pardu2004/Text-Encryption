@@ -55,7 +55,7 @@ class MainActivity : ComponentActivity() {
                 colorScheme = if (isSystemInDarkTheme()) darkColorScheme() else lightColorScheme()
             ) {
                 AESEncryptionApp()
-            }
+            } #manikanta
         }
 
     }
